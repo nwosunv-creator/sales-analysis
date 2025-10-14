@@ -6,7 +6,8 @@ This project provides a detailed analysis of Adidas sales data to understand bus
 
 
 
-<img width="1321" height="539" alt="sales analysis dashboard" src="https://github.com/user-attachments/assets/2d81ceb3-dc50-46ec-b5cd-32bd537eeb70" />
+
+<img width="1321" height="539" alt="sales analysis dashboard" src="https://github.com/user-attachments/assets/b7071fc6-2878-493a-8781-248b1cffadf7" />
 
 
 
