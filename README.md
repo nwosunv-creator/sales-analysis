@@ -2,12 +2,13 @@
 this is Sales analysis project showing product performance, revenue trends, and customer insights using data visualization to improve business decisions
 Project Overview
 
-This project provides a detailed analysis of Adidas sales data to understand business performance, revenue trends, and customer purchasing behavior. The analysis aims to generate actionable insights that can support data-driven decisions for marketing, production, and sales strateg
+This project provides a detailed analysis of Adidas sales data to understand business performance, revenue trends, and customer purchasing behavior. The analysis aims to generate actionable insights that can support data-driven decisions for marketing, production, and sales strategyv
 
 
 
 
-<img width="1321" height="539" alt="sales analysis dashboard" src="https://github.com/user-attachments/assets/b7071fc6-2878-493a-8781-248b1cffadf7" />
+
+<img width="1320" height="543" alt="screen 33" src="https://github.com/user-attachments/assets/9856a2b9-c043-4d62-a4be-fe1c3327d9ce" />
 
 
 
